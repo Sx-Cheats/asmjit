@@ -21,7 +21,7 @@ N'hésitez pas à le partager !.
 | Multi-threadding_debug-dll-lib(MDd)  | ✔️    |     ✔️          |✔️
 | Multi-threadding-dll-lib-(MD) | ✔️           |      ✔️         |✔️
 
-![](https://img.shields.io/static/v1?label=Discord&message=E%E1%BD%94%CE%B4%CE%BF%CE%BE%CE%BF%CF%82%232170&color=blue)
+![](https://img.shields.io/static/v1?label=Discord&message=$x-Cheats%232170&color=blue)
 
 
         
